@@ -1,0 +1,1 @@
+Template for temperature measurement with Arduino nano and a NTC
